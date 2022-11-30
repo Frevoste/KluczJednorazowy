@@ -1,0 +1,15 @@
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\bin\Debug\net6.0\KluczJednorazowy.exe
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\bin\Debug\net6.0\KluczJednorazowy.deps.json
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\bin\Debug\net6.0\KluczJednorazowy.runtimeconfig.json
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\bin\Debug\net6.0\KluczJednorazowy.dll
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\bin\Debug\net6.0\KluczJednorazowy.pdb
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.csproj.AssemblyReference.cache
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.AssemblyInfoInputs.cache
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.AssemblyInfo.cs
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.csproj.CoreCompileInputs.cache
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.dll
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\refint\KluczJednorazowy.dll
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.pdb
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\KluczJednorazowy.genruntimeconfig.cache
+D:\Programowanie\Kryptografia\KluczJednorazowy\KluczJednorazowy\obj\Debug\net6.0\ref\KluczJednorazowy.dll
